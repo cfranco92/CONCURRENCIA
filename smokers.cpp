@@ -1,4 +1,4 @@
-/**
+/**   CRISTIAN FRANCO
  * file: smokers.cpp
  *
  * compile: $ make -f makeconexam.mk smokers
